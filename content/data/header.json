@@ -22,7 +22,7 @@
         },
         {
             "label": "Stories",
-            "altText": "Blog",
+            "altText": "Stories",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
