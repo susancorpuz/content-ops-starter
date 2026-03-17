@@ -8,10 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      GAUDAN Design - Construction Services and Trading is committed to
+      delivering cultural-sensitive and socially relevant architectural design
+      that enhances the lives of people and the environment. We provide
+      full-service architectural and engineering solutions for all types of
+      projects.
+
+
+
+
     actions:
       - label: Get started
         altText: ''
