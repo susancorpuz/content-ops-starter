@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/logo-m6L41rXaLWhzVgvK-300x34.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Services",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,9 +21,9 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Stories",
+            "altText": "Stories",
+            "url": "/stories",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
