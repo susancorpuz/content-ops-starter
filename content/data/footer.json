@@ -42,7 +42,7 @@
             {
                 "label": "About us",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
