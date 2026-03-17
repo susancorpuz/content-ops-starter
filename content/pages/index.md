@@ -295,7 +295,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Project Management & Design Consulting
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
