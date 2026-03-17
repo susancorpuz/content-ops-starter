@@ -1,6 +1,6 @@
 ---
 title: Stories
-slug: /blog
+slug: /stories
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
