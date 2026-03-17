@@ -39,7 +39,7 @@ sections:
         type: Link
     media:
       url: /images/Untitled-1-768x332.png
-      altText: Unblock your team boost your time to production preview
+      altText: Gaudan Projects
       elementId: ''
       type: ImageBlock
     badge:
