@@ -6,7 +6,7 @@
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
                 "label": "Features",
@@ -18,12 +18,13 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Services",
+                "url": "/services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "service"
             },
             {
                 "label": "Documentation",
@@ -40,17 +41,17 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "About us",
+                "altText": "about us page",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Stories",
+                "url": "/stories",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -73,14 +74,14 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:gautanteam@gaudan.org",
             "icon": "mail",
             "type": "Social"
         }
