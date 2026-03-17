@@ -50,7 +50,7 @@
             },
             {
                 "label": "Stories",
-                "url": "/blog",
+                "url": "/stories",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
