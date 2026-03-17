@@ -7,7 +7,7 @@ sections:
       text: Innovative design for a sustainable future
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ...
     text: >+
       GAUDAN Design - Construction Services and Trading is committed to
       delivering cultural-sensitive and socially relevant architectural design
