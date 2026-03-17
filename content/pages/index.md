@@ -253,7 +253,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Pro
+      text: Our Services
       color: text-dark
       styles:
         self:
