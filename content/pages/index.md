@@ -59,13 +59,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Full service Solutions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: for all types of projects
     items:
       - type: FeaturedItem
         title: 200+
@@ -302,13 +302,13 @@ sections:
     text: |
       A service that provides advice and guidance to home owners and businesses.
     actions:
-      - label: Get started
+      - label: Book an appointment
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Learn more
         url: /
         showIcon: true
         icon: arrowRight
@@ -340,7 +340,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Building Requirements
       color: text-primary
       styles:
         self:
@@ -348,7 +348,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Fit outs
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -436,11 +436,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: gaudanteam@gaudan.org
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Are you planning to build your dream house or renovate your coffee shop to
+      accommodate more customers? Design and construction standards and
+      requirements can be quite confusing. We can assist you with various
+      aspects of your project, including site planning, design, construction,
+      fit-outs, and building management. Please send us an email with your
+      contact information and any questions you may have. We will then contact
+      you to schedule an appointment.
     media:
       fields:
         - name: name
