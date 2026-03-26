@@ -1,6 +1,6 @@
 ---
-title: Residential
-slug: case-study-1
+title: Sevilla Residential
+slug: sevilla-home
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,

@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: Surround Yourself With the Right Trees
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-

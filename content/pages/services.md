@@ -113,8 +113,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Gaudan Services
+  metaDescription: Architecture, Design and Construction Services
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

@@ -31,10 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Gaudan Stories
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Stories on building better homes and livable communities, safe materials, products, and tools.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

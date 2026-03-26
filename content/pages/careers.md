@@ -159,8 +159,8 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Careers in Gaudan
+  metaDescription: Build your practice in architecture, design, and construction
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
