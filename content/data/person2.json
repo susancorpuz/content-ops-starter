@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Landscape Architect",
+    "role": "Landscape Architect",
     "image": {
         "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
+        "altText": "Landscape Architect",
         "styles": {
             "self": {
                 "borderRadius": "medium",

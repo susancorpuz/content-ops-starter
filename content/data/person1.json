@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Vlad Longid",
+    "role": "Founder & Principal Architect",
     "image": {
         "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "altText": "Vlad Longid",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Licensed and registered architect based in the Philippines.\n"
 }

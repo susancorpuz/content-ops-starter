@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Engineer",
+    "role": "Engineer",
     "image": {
         "url": "/images/avatar3.svg",
-        "altText": "Asher Schmitt",
+        "altText": "Engineer",
         "styles": {
             "self": {
                 "borderRadius": "medium",

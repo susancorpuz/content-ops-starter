@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Electrician",
+    "role": "Electrician",
     "image": {
         "url": "/images/avatar6.svg",
-        "altText": "Harrison Tally",
+        "altText": "Electrician",
         "styles": {
             "self": {
                 "borderRadius": "medium",

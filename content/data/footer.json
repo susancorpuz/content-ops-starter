@@ -63,13 +63,13 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/susancorpuz",
             "icon": "github",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://twitter.com/susancorpuz",
             "icon": "twitter",
             "type": "Social"
         },

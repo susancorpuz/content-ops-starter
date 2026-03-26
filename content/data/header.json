@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Services",
-            "url": "/pricing",
+            "label": "About Us",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -39,27 +39,27 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Services",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Design",
+                    "url": "/design",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Management",
+                    "url": "/management",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Trading",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -75,7 +75,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://project.gaudan.org/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -83,7 +83,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://project.gaudan.org",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

@@ -1,19 +1,18 @@
 ---
-title: Pricing
-slug: pricing
+title: Services
+slug: services
 sections:
   - title:
-      text: Flexible Pricing
+      text: Consultation
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+      type: Services
+    subtitle: Design and Project Management
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: Design
+        details: Consultation
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -27,7 +26,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book an appointment
             url: /
             icon: arrowRight
             iconPosition: right
@@ -42,10 +41,9 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+        type: Management
+      - title: Project Management
+        details:
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -56,7 +54,7 @@ sections:
           - Feature four
         image:
           url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          altText: Project Management
           type: ImageBlock
         actions:
           - label: Try for free
@@ -74,10 +72,9 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
+        type: Services
+      - title: Construction Management
+        details:
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
