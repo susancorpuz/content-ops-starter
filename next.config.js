@@ -7,9 +7,9 @@ const nextConfig = {
     },
     trailingSlash: true,
     reactStrictMode: true,
-    allowedDevOrigins: [
-        '192.168.1.84'
-    ]
+    allowedDevOrigins: ['192.168.1.84'],
+    output: 'export', // <-- ADD THIS LINE
+    distDir: 'dist' // <-- AND THIS (optional but cleaner)
 };
 
 module.exports = nextConfig;
