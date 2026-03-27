@@ -121,7 +121,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Construction Engineer
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Send us your resume
         url: /
         icon: arrowRight
         iconPosition: right
@@ -160,7 +160,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Careers in Gaudan
-  metaDescription: Build your practice in architecture, design, and construction
+  metaDescription: Build your practice in architecture, design, and construction.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

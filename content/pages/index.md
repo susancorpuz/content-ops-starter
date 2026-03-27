@@ -9,13 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ...
     text: >+
-      GAUDAN Design - Construction Services and Trading is committed to
-      delivering cultural-sensitive and socially relevant architectural design
-      that enhances the lives of people and the environment. We provide
-      full-service architectural and engineering solutions for all types of
-      projects.
-
-
+      GAUDAN Design - Construction Services and Trading is committed to delivering cultural-sensitive and socially relevant architectural design that enhances the lives of people and the environment. We provide
+      full-service architectural and engineering solutions for all types of projects.
 
 
     actions:
@@ -71,9 +66,7 @@ sections:
         title: 200+
         subtitle: Projects Done
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          From residential, commercial, to civil works, we accomplished them safely in every step to the finish line.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -97,11 +90,9 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: The Hard Stuff
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We're built to do the hard stuff. Lift the burden of designing and constructing a building by hiring Gaudan's professional team of architects, designers, engineers, and workers.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -124,9 +115,7 @@ sections:
       - title: 100%
         subtitle: Satisfaction
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our clients' satisfaction on making their visions realized was built with their trust and confidence on us.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
